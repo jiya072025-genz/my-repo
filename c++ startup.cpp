@@ -37,8 +37,7 @@ public:
         }
         return *this;
     }
-    ~Date() {
-       
+    ~Date() { 
     }
     int getDay() { return day; }
     int getMonth() { return month; }
